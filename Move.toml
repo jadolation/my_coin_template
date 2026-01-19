@@ -1,6 +1,6 @@
 [package]
 name = "my_coin"
-# edition = "2024.beta" # To use the Move 2024 edition, currently in alpha
+# edition = "2024.beta" # To use the Move 2024 edition, currently in alpha omrhs
 # license = "Apache 2.0"           # e.g., "MIT", "GPL", "Apache 2.0"
 # authors = ["Tzar Umang (tzarumang@gmail.com), definitelytzar.sui"]
 
